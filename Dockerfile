@@ -1,4 +1,4 @@
-FROM jenkins:2.32.3
+FROM shelbert/jenkins-fr-tzparis:2.46.3
 
 USER root
 
